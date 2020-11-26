@@ -61,7 +61,7 @@
   width: 20%;
   justify-content: space-evenly;
 }
-@media(max-width : 375px){
+@media(max-width : 400px){
   #top-div{
     background-image: url("../assets/images/bg-header-mobile.png");
   }
