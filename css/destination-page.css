@@ -64,6 +64,7 @@
 @media(max-width : 450px){
   #top-div{
     background-image: url("../assets/images/bg-header-mobile.png");
+    background-size: inherit;
   }
   #device-img{
     width: 80%;
